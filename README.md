@@ -1,8 +1,10 @@
-# Project Name: Shopping List App
+# Project Name: DoItNow
 
 ## Prototype
+<img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-08%20204741.png" alt="Alt text" width="1000" height="500">
+<img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-08%20204856.png" alt="Alt text" width="1000" height="500">
 
-<iframe src=https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screen%20Recording%202024-09-08%20200032.mp4 allowfullscreen></iframe>
+
 
 ## Description:
 
@@ -15,20 +17,21 @@ This Android application is a simple shopping list manager designed to help user
 3. Intuitive user interface
 4. Offline functionality
 
-Technologies Used:  
+**Technologies Used:**  
 
 * Jetpack Compose
 * Kotlin
 * Material Design
+* Jetpack Compose
 
-Getting Started:
+**Getting Started:**
 
 Clone the Repository:
 
 `git clone https://github.com/your-username/shopping-list-app.git`
 
 * Open in Android Studio: Open the project in Android Studio.
-*Run the App: Build and run the app on an Android emulator or device.
+* Run the App: Build and run the app on an Android emulator or device.
 
 **Usage:**
 
