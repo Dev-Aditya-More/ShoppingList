@@ -1,8 +1,7 @@
 # Project Name: DoItNow
 
 ## Prototype
-<img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-08%20204741.png" alt="Alt text" width="1000" height="500">
-<img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-08%20204856.png" alt="Alt text" width="1000" height="500">
+<img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/screenshot.png" alt="Alt text" width="400" height="800"> <img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-10%20172357.png" alt="Alt text" width="500" height="800"> <img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-10%20172419.png" alt="Alt text" width="500" height="800"> <img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-10%20172527.png" alt="Alt text" width="500" height="800">
 
 
 
