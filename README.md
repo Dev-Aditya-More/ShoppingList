@@ -1,4 +1,4 @@
-# Project Name: DoItNow
+# Project Name: TheShoppingList
 
 ## Prototype
 <img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/screenshot.png" alt="Alt text" width="400" height="800"> <img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-10%20172357.png" alt="Alt text" width="500" height="800"> <img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-10%20172419.png" alt="Alt text" width="500" height="800"> <img src="https://github.com/Aditya-More-Coder/ShoppingList/blob/master/Screenshot%202024-09-10%20172527.png" alt="Alt text" width="500" height="800">
